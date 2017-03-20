@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81852113101",
+    "firebase_url": "https://yfsa-85443.firebaseio.com",
+    "project_id": "yfsa-85443",
+    "storage_bucket": "yfsa-85443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81852113101:android:445810b9b04e1ed8",
+        "android_client_info": {
+          "package_name": "com.example.onsavii.yfsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81852113101-1oa73thg4t5rd51g4krhakn67igmhgj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfBHeGP6VQs-rB1pFoXTC2mINmChamhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
